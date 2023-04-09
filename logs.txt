@@ -1,0 +1,29 @@
+commit f64c3da16a2feb97ebf457a9e17dbd51333604cf
+Author: Egzon Qerimi <egzonqerimi@outlook.com>
+Date:   Sun Apr 9 21:43:05 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 30fb9d3bf020f6807f686d47ba0e96d8407c7e2d
+Author: Egzon Qerimi <egzonqerimi@outlook.com>
+Date:   Sun Apr 9 21:40:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit b7564ece4417c30b4bfb0f457975a94d9abc6e49
+Author: Egzon Qerimi <egzonqerimi@outlook.com>
+Date:   Sun Apr 9 21:36:51 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 4e3652b46008a24ae924123c1d1246311bcc37a0
+Author: Egzon Qerimi <egzonqerimi@outlook.com>
+Date:   Sun Apr 9 21:10:34 2023 +0200
+
+    Add java class
+
+commit 9a0bc8e9a957bc85572f9d551a1a05d088f207e4
+Author: Egzon Qerimi <egzonqerimi@outlook.com>
+Date:   Sun Apr 9 21:04:28 2023 +0200
+
+    First commit
